@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RackSpaceWebService", "RackSpaceWebService\RackSpaceWebService.csproj", "{608D3C8C-2A5A-4AB5-B7D2-7DE0C345AF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{608D3C8C-2A5A-4AB5-B7D2-7DE0C345AF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608D3C8C-2A5A-4AB5-B7D2-7DE0C345AF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608D3C8C-2A5A-4AB5-B7D2-7DE0C345AF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608D3C8C-2A5A-4AB5-B7D2-7DE0C345AF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
